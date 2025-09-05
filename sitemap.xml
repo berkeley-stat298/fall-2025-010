@@ -1,43 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://berkeley-cdss.github.io/course-site-quarto/license.html</loc>
-    <lastmod>2025-09-04T22:01:03.277Z</lastmod>
+    <loc>https://stat298.stat.berkeley.edu/fall-2025-010/license.html</loc>
+    <lastmod>2025-09-05T23:39:42.542Z</lastmod>
   </url>
   <url>
-    <loc>https://berkeley-cdss.github.io/course-site-quarto/calendar.html</loc>
-    <lastmod>2025-09-04T22:01:03.277Z</lastmod>
+    <loc>https://stat298.stat.berkeley.edu/fall-2025-010/index.html</loc>
+    <lastmod>2025-09-05T23:39:42.542Z</lastmod>
   </url>
   <url>
-    <loc>https://berkeley-cdss.github.io/course-site-quarto/units/unit3.html</loc>
-    <lastmod>2025-09-04T22:01:03.278Z</lastmod>
+    <loc>https://stat298.stat.berkeley.edu/fall-2025-010/units/unit2.html</loc>
+    <lastmod>2025-09-05T23:39:42.543Z</lastmod>
   </url>
   <url>
-    <loc>https://berkeley-cdss.github.io/course-site-quarto/units/macros.html</loc>
-    <lastmod>2025-09-04T22:01:03.278Z</lastmod>
+    <loc>https://stat298.stat.berkeley.edu/fall-2025-010/units/unit1.html</loc>
+    <lastmod>2025-09-05T23:39:42.543Z</lastmod>
   </url>
   <url>
-    <loc>https://berkeley-cdss.github.io/course-site-quarto/syllabus.html</loc>
-    <lastmod>2025-09-04T22:01:03.277Z</lastmod>
+    <loc>https://stat298.stat.berkeley.edu/fall-2025-010/staff.html</loc>
+    <lastmod>2025-09-05T23:39:42.542Z</lastmod>
   </url>
   <url>
-    <loc>https://berkeley-cdss.github.io/course-site-quarto/staff.html</loc>
-    <lastmod>2025-09-04T22:01:03.277Z</lastmod>
+    <loc>https://stat298.stat.berkeley.edu/fall-2025-010/syllabus.html</loc>
+    <lastmod>2025-09-05T23:39:42.542Z</lastmod>
   </url>
   <url>
-    <loc>https://berkeley-cdss.github.io/course-site-quarto/units/unit1.html</loc>
-    <lastmod>2025-09-04T22:01:03.278Z</lastmod>
+    <loc>https://stat298.stat.berkeley.edu/fall-2025-010/units/macros.html</loc>
+    <lastmod>2025-09-05T23:39:42.542Z</lastmod>
   </url>
   <url>
-    <loc>https://berkeley-cdss.github.io/course-site-quarto/units/unit2.html</loc>
-    <lastmod>2025-09-04T22:01:03.278Z</lastmod>
+    <loc>https://stat298.stat.berkeley.edu/fall-2025-010/units/unit3.html</loc>
+    <lastmod>2025-09-05T23:39:42.543Z</lastmod>
   </url>
   <url>
-    <loc>https://berkeley-cdss.github.io/course-site-quarto/index.html</loc>
-    <lastmod>2025-09-04T22:01:03.277Z</lastmod>
-  </url>
-  <url>
-    <loc>https://berkeley-cdss.github.io/course-site-quarto/data.html</loc>
-    <lastmod>2025-09-04T22:01:03.277Z</lastmod>
+    <loc>https://stat298.stat.berkeley.edu/fall-2025-010/calendar.html</loc>
+    <lastmod>2025-09-05T23:39:42.542Z</lastmod>
   </url>
 </urlset>
