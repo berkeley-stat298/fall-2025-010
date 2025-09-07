@@ -7,13 +7,73 @@
     "text": "This work is licensed under a Creative Commons Attribution 4.0 International License."
   },
   {
+    "objectID": "guidelines.html",
+    "href": "guidelines.html",
+    "title": "Group Organzation",
+    "section": "",
+    "text": "This reading group is a collective effort to learn and discuss topics in the intersection between philosophy and statistics, a area that we are all excited about. The group is being organized by Snow Zhang, Ryan Giordano, Will Fithian, Erez Buchweitz, and Lucas Schwengber, but we see our role as facilitating logistics and discussion rather than as instructors per se.\n\n\nEach week, a presenter (or presenters) will lead a group discussion on a particular topic with associated readings. The schedule and readings can be found here. Erez and Lucas will take the lead on finding volunteers to present. The format is flexible, but as a guidline, we recommend aiming for ~45 minutes of presentation and ~45 minutes of discussion. Slides are welcome but not necessary. We will all be learning, and so we do not necessarily expect presenters to be experts on their topic — rather, their primary role is to facilitate and guide group discussion.\nEach unit has an “owner,” as indicated in the schedule. Each week, the presenter(s) is (are) invited to meet with the unit owner on the week before they present, in order to discuss to big ideas to focus on, and to exchange ideas before the main reading group.\n\n\n\nWe will have a Zoom option since some participants are truly remote. However, for participants at Berkeley, we request that you participate in person.\n\n\n\nWe encourage discussion on EdStem, both before and after the actual meetings. If you need to be added, please email Erez or Lucas, and they will add you.\n\n\n\nFor our own information, we would grateful if participants could fill out the attendance poll (on PollEV) every week during the group meeting.\n\n\n\nA STAT298 course (#14015) was also setup for students who would like to sign-up for unit credit. If you are taking the reading group for credit, the only requirement is to attend, do the readings, and participate in the discussions to the extent you are comfortable.\nIf you are taking the course for credit, please make sure you fill out the attendance poll (on PollEV) to receive credit.",
+    "crumbs": [
+      "Group structure"
+    ]
+  },
+  {
+    "objectID": "guidelines.html#presentations",
+    "href": "guidelines.html#presentations",
+    "title": "Group Organzation",
+    "section": "",
+    "text": "Each week, a presenter (or presenters) will lead a group discussion on a particular topic with associated readings. The schedule and readings can be found here. Erez and Lucas will take the lead on finding volunteers to present. The format is flexible, but as a guidline, we recommend aiming for ~45 minutes of presentation and ~45 minutes of discussion. Slides are welcome but not necessary. We will all be learning, and so we do not necessarily expect presenters to be experts on their topic — rather, their primary role is to facilitate and guide group discussion.\nEach unit has an “owner,” as indicated in the schedule. Each week, the presenter(s) is (are) invited to meet with the unit owner on the week before they present, in order to discuss to big ideas to focus on, and to exchange ideas before the main reading group.",
+    "crumbs": [
+      "Group structure"
+    ]
+  },
+  {
+    "objectID": "guidelines.html#in-person-participation",
+    "href": "guidelines.html#in-person-participation",
+    "title": "Group Organzation",
+    "section": "",
+    "text": "We will have a Zoom option since some participants are truly remote. However, for participants at Berkeley, we request that you participate in person.",
+    "crumbs": [
+      "Group structure"
+    ]
+  },
+  {
+    "objectID": "guidelines.html#discussion",
+    "href": "guidelines.html#discussion",
+    "title": "Group Organzation",
+    "section": "",
+    "text": "We encourage discussion on EdStem, both before and after the actual meetings. If you need to be added, please email Erez or Lucas, and they will add you.",
+    "crumbs": [
+      "Group structure"
+    ]
+  },
+  {
+    "objectID": "guidelines.html#attendance",
+    "href": "guidelines.html#attendance",
+    "title": "Group Organzation",
+    "section": "",
+    "text": "For our own information, we would grateful if participants could fill out the attendance poll (on PollEV) every week during the group meeting.",
+    "crumbs": [
+      "Group structure"
+    ]
+  },
+  {
+    "objectID": "guidelines.html#course-credit",
+    "href": "guidelines.html#course-credit",
+    "title": "Group Organzation",
+    "section": "",
+    "text": "A STAT298 course (#14015) was also setup for students who would like to sign-up for unit credit. If you are taking the reading group for credit, the only requirement is to attend, do the readings, and participate in the discussions to the extent you are comfortable.\nIf you are taking the course for credit, please make sure you fill out the attendance poll (on PollEV) to receive credit.",
+    "crumbs": [
+      "Group structure"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Statistics 298: Statistical Foundations Reading Group",
     "section": "",
-    "text": "Berkeley\n\n\nNo matching items\n\n\n[UNDER CONSTRUCTION]",
+    "text": "EdStem Discussion Board\n\n  PollEV Link (Attendance)\n\n  Reading List\n\n\nNo matching items\n\n\nThis is the webpage for the Fall 2025 Statistical Foundations Reading Group.",
     "crumbs": [
-      "Home / Schedule"
+      "Home"
     ]
   },
   {
@@ -56,7 +116,7 @@
     "href": "units/unit1.html#evaluated-python-code-chunk-with-a-plot",
     "title": "Unit 1: Intro",
     "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.08822737839568236)"
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.05392169119544842)"
   },
   {
     "objectID": "units/unit1.html#latex",
@@ -119,7 +179,7 @@
     "href": "units/unit3.html#evaluated-python-code-chunk-with-a-plot",
     "title": "Unit 3: More",
     "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.1275200220488133)"
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.17393171940737384)"
   },
   {
     "objectID": "units/unit3.html#latex",
@@ -155,5 +215,15 @@
     "title": "Calendar",
     "section": "Instructions",
     "text": "Instructions\nWe suggest that you delete these instructions before publishing your website.\n\nCreate the Calendars:\n\nGo to Google Calendar.\nOn the left sidebar, click the + sign next to “Other calendars” and select “Create new calendar”.\nCreate your calendars and name them appropriately.\n\nObtain the Embed Code for Each Calendar:\n\nFor each calendar, go to its settings by clicking on the three dots next to the calendar name and selecting “Settings and sharing”.\nIn the calendar settings, scroll down to “Integrate calendar” and copy the embed code provided under “Embed code”.\n\nCombine the Embed Codes:\n\nInstead of copying the entire embed code, you need the calendar’s ID, which is part of the embed URL. It will look something like calendarID@group.calendar.google.com.\nFor example, in the embed URL https://calendar.google.com/calendar/embed?src=calendarID@group.calendar.google.com, calendarID@group.calendar.google.com is the part you need.\n\nCreate a Single Embed Link:\n\nUse the base URL for embedding multiple calendars: https://calendar.google.com/calendar/embed?\nAppend each calendar ID to the base URL using the format &src=calendarID@group.calendar.google.com for each calendar you want to include.\nOptionally, you can customize the appearance by adding parameters (e.g., &color=%23F6BF26 for the color, &ctz=America%2FLos_Angeles for the time zone).\n\nFor example, if you have two calendars with IDs calendar1ID@group.calendar.google.com and calendar2ID@group.calendar.google.com, your combined embed link would look like this:\n\nhttps://calendar.google.com/calendar/embed?src=calendar1ID@group.calendar.google.com&src=calendar2ID@group.calendar.google.com\n\nSubstitute this URL into the src attribute of the calendar’s iframe at the top of this page."
+  },
+  {
+    "objectID": "reading_list.html",
+    "href": "reading_list.html",
+    "title": "Reading list and schedule",
+    "section": "",
+    "text": "Schedule and readings\n\nWeek one (logistics)\n\nPlease discuss and complete this form, ideally with at least one other group memeber, even more ideally with group members from different departments.\n\n\n\n\nFuture weeks\nThe following schedule is subject to change.",
+    "crumbs": [
+      "Schedule and readings"
+    ]
   }
 ]
