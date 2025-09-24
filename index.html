@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -195,8 +215,18 @@ window.Quarto = {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#interpretation-of-probability" id="toc-interpretation-of-probability" class="nav-link active" data-scroll-target="#interpretation-of-probability">Interpretation of probability</a></li>
+  <li><a href="#the-problem-of-induction" id="toc-the-problem-of-induction" class="nav-link" data-scroll-target="#the-problem-of-induction">The problem of induction</a></li>
+  <li><a href="#bayesian-versus-frequentist-statistics" id="toc-bayesian-versus-frequentist-statistics" class="nav-link" data-scroll-target="#bayesian-versus-frequentist-statistics">Bayesian versus frequentist statistics</a></li>
+  <li><a href="#the-replication-crisis" id="toc-the-replication-crisis" class="nav-link" data-scroll-target="#the-replication-crisis">The replication crisis</a></li>
+  <li><a href="#bibliography" id="toc-bibliography" class="nav-link" data-scroll-target="#bibliography">Bibliography</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -234,11 +264,98 @@ No matching items
 </div>
 </div>
 <p>This is the webpage for the Fall 2025 Statistical Foundations Reading Group.</p>
+<p>Readings to date:</p>
+<section id="interpretation-of-probability" class="level1">
+<h1>Interpretation of probability</h1>
+<ul>
+<li>Week 1: Subjective interpretation of probability
+<ul>
+<li>Main readings:
+<ul>
+<li><span class="citation" data-cites="hajek:2011:interpretations">Hajek (<a href="#ref-hajek:2011:interpretations" role="doc-biblioref">2011</a>)</span> (Chapters 1, 2 and 3.3)</li>
+<li><span class="citation" data-cites="freedman:2003:chance">Freedman and Stark (<a href="#ref-freedman:2003:chance" role="doc-biblioref">2003</a>)</span> (Chapters 2.3 and 4)</li>
+<li><span class="citation" data-cites="definetti:1937:foresight">De Finetti (<a href="#ref-definetti:1937:foresight" role="doc-biblioref">1937</a>)</span> (Chapters 1 and 2)</li>
+</ul></li>
+</ul></li>
+<li>Week 2: Frequentist interpretation of probability
+<ul>
+<li>Main readings:
+<ul>
+<li><span class="citation" data-cites="freedman:1995:issues">Freedman (<a href="#ref-freedman:1995:issues" role="doc-biblioref">1995</a>)</span></li>
+<li><span class="citation" data-cites="hajek:2009:fifteen">Hájek (<a href="#ref-hajek:2009:fifteen" role="doc-biblioref">2009</a>)</span> Optional:</li>
+</ul></li>
+<li>Optional readings
+<ul>
+<li><span class="citation" data-cites="von:1941:foundations">Von Mises (<a href="#ref-von:1941:foundations" role="doc-biblioref">1941</a>)</span></li>
+<li><span class="citation" data-cites="steeger:2024:hypothetical">Steeger (<a href="#ref-steeger:2024:hypothetical" role="doc-biblioref">2024</a>)</span></li>
+</ul></li>
+</ul></li>
+<li>Week 3: Best systems interpretation of probability
+<ul>
+<li>Main reading:
+<ul>
+<li><span class="citation" data-cites="loewer:2004:david">Loewer (<a href="#ref-loewer:2004:david" role="doc-biblioref">2004</a>)</span></li>
+</ul></li>
+<li>Optional readings:
+<ul>
+<li><span class="citation" data-cites="lewis:1994:humean">Lewis (<a href="#ref-lewis:1994:humean" role="doc-biblioref">1994</a>)</span></li>
+<li><span class="citation" data-cites="hall:2020:chance">Hall (<a href="#ref-hall:2020:chance" role="doc-biblioref">2020</a>)</span></li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="the-problem-of-induction" class="level1">
+<h1>The problem of induction</h1>
+<p>TBD!</p>
+</section>
+<section id="bayesian-versus-frequentist-statistics" class="level1">
+<h1>Bayesian versus frequentist statistics</h1>
+<p>TBD!</p>
+</section>
+<section id="the-replication-crisis" class="level1">
+<h1>The replication crisis</h1>
+<p>TBD!</p>
+</section>
+<section id="bibliography" class="level1">
 
 
 
 
-</main> <!-- /main -->
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Bibliography</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-definetti:1937:foresight" class="csl-entry" role="listitem">
+De Finetti, Bruno. 1937. <span>“Foresight: <span>Its</span> Logical Laws, Its Subjective Sources.”</span> In <em>Breakthroughs in Statistics: Foundations and Basic Theory</em>, 134–74. Springer.
+</div>
+<div id="ref-freedman:1995:issues" class="csl-entry" role="listitem">
+Freedman, David. 1995. <span>“Some Issues in the Foundation of Statistics.”</span> <em>Foundations of Science</em> 1 (1): 19–39.
+</div>
+<div id="ref-freedman:2003:chance" class="csl-entry" role="listitem">
+Freedman, David, and Philip Stark. 2003. <span>“What Is the Chance of an Earthquake.”</span> <em>NATO Science Series IV: Earth and Environmental Sciences</em> 32: 201–13.
+</div>
+<div id="ref-hajek:2011:interpretations" class="csl-entry" role="listitem">
+Hajek, Alan. 2011. <span>“Interpretations of Probability.”</span> <em>Stanford Encyclopedia of Philosophy</em>, 1–47.
+</div>
+<div id="ref-hajek:2009:fifteen" class="csl-entry" role="listitem">
+Hájek, Alan. 2009. <span>“Fifteen Arguments Against Hypothetical Frequentism.”</span> <em>Erkenntnis</em> 70 (2): 211–35.
+</div>
+<div id="ref-hall:2020:chance" class="csl-entry" role="listitem">
+Hall, Ned. 2020. <span>“Is Chance Ontologically Fundamental? Chance and the Great Divide.”</span> In <em>Current Controversies in Philosophy of Science</em>, 123–42. Routledge.
+</div>
+<div id="ref-lewis:1994:humean" class="csl-entry" role="listitem">
+Lewis, David. 1994. <span>“Humean Supervenience Debugged.”</span> <em>Mind</em> 103 (412): 473–90.
+</div>
+<div id="ref-loewer:2004:david" class="csl-entry" role="listitem">
+Loewer, Barry. 2004. <span>“David <span class="nocase">Lewis’s</span> <span>Humean</span> Theory of Objective Chance.”</span> <em>Philosophy of Science</em> 71 (5): 1115–25.
+</div>
+<div id="ref-steeger:2024:hypothetical" class="csl-entry" role="listitem">
+Steeger, Jer. 2024. <span>“Hypothetical Frequencies as Approximations.”</span> <em>Erkenntnis</em> 89 (4): 1295–325.
+</div>
+<div id="ref-von:1941:foundations" class="csl-entry" role="listitem">
+Von Mises, Richard. 1941. <span>“On the Foundations of Probability and Statistics.”</span> <em>The Annals of Mathematical Statistics</em> 12 (2): 191–205.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
