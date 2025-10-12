@@ -1,10 +1,51 @@
 [
   {
+    "objectID": "calendar.html",
+    "href": "calendar.html",
+    "title": "Calendar",
+    "section": "",
+    "text": "This is an example of embedding a widget with multiple calendars. This might be useful if you want to have different calendars for assignments, exams, instructor office hours, GSI office hours, etc."
+  },
+  {
+    "objectID": "calendar.html#course-calendar",
+    "href": "calendar.html#course-calendar",
+    "title": "Calendar",
+    "section": "",
+    "text": "This is an example of embedding a widget with multiple calendars. This might be useful if you want to have different calendars for assignments, exams, instructor office hours, GSI office hours, etc."
+  },
+  {
+    "objectID": "calendar.html#instructions",
+    "href": "calendar.html#instructions",
+    "title": "Calendar",
+    "section": "Instructions",
+    "text": "Instructions\nWe suggest that you delete these instructions before publishing your website.\n\nCreate the Calendars:\n\nGo to Google Calendar.\nOn the left sidebar, click the + sign next to “Other calendars” and select “Create new calendar”.\nCreate your calendars and name them appropriately.\n\nObtain the Embed Code for Each Calendar:\n\nFor each calendar, go to its settings by clicking on the three dots next to the calendar name and selecting “Settings and sharing”.\nIn the calendar settings, scroll down to “Integrate calendar” and copy the embed code provided under “Embed code”.\n\nCombine the Embed Codes:\n\nInstead of copying the entire embed code, you need the calendar’s ID, which is part of the embed URL. It will look something like calendarID@group.calendar.google.com.\nFor example, in the embed URL https://calendar.google.com/calendar/embed?src=calendarID@group.calendar.google.com, calendarID@group.calendar.google.com is the part you need.\n\nCreate a Single Embed Link:\n\nUse the base URL for embedding multiple calendars: https://calendar.google.com/calendar/embed?\nAppend each calendar ID to the base URL using the format &src=calendarID@group.calendar.google.com for each calendar you want to include.\nOptionally, you can customize the appearance by adding parameters (e.g., &color=%23F6BF26 for the color, &ctz=America%2FLos_Angeles for the time zone).\n\nFor example, if you have two calendars with IDs calendar1ID@group.calendar.google.com and calendar2ID@group.calendar.google.com, your combined embed link would look like this:\n\nhttps://calendar.google.com/calendar/embed?src=calendar1ID@group.calendar.google.com&src=calendar2ID@group.calendar.google.com\n\nSubstitute this URL into the src attribute of the calendar’s iframe at the top of this page."
+  },
+  {
     "objectID": "license.html",
     "href": "license.html",
     "title": "License",
     "section": "",
     "text": "This work is licensed under a Creative Commons Attribution 4.0 International License."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Statistics 298: Statistical Foundations Reading Group",
+    "section": "",
+    "text": "EdStem Discussion Board\n\n  PollEV Link (Attendance)\n\n  Reading List\n\n\nNo matching items\n\n\nThis is the webpage for the Fall 2025 Statistical Foundations Reading Group.\nReadings to date:\n\nInterpretation of probability\n\nWeek 1: Subjective interpretation of probability\n\nMain readings:\n\nHajek (2011) (Chapters 1, 2 and 3.3) (link)\nFreedman and Stark (2003) (Chapters 2.3 and 4) (link)\nDe Finetti (1937) (Chapters 1 and 2) (link)\n\n\nWeek 2: Frequentist interpretation of probability\n\nMain readings:\n\nFreedman (1995) (link)\nHájek (2009) (link)\n\nOptional readings\n\nVon Mises (1941) (link)\nSteeger (2024) (link)\n\n\nWeek 3: Best systems interpretation of probability\n\nMain reading:\n\nLoewer (2004) (link)\n\nOptional readings:\n\nLewis (1994) (link)\nHall (2020) (link)\n\n\n\n\n\nThe problem of induction\n\nWeek 4:\n\nMain readings:\n\nHenderson (2024) (link)\nGoodman (1965) (link)\n\nOptional readings:\n\nHume (2007) Chapters IV and V (link)\n\n\nWeek 5:\n\nNeyman (1957) (link)\nPopper (1963) (link)\n\n\n\n\nBayesian versus frequentist statistics\nTBD!\n\n\nThe replication crisis\nTBD!\n\n\n\n\n\n\n\n\n\nBibliography\n\nDe Finetti, Bruno. 1937. “Foresight: Its Logical Laws, Its Subjective Sources.” In Breakthroughs in Statistics: Foundations and Basic Theory, 134–74. Springer.\n\n\nFreedman, David. 1995. “Some Issues in the Foundation of Statistics.” Foundations of Science 1 (1): 19–39.\n\n\nFreedman, David, and Philip Stark. 2003. “What Is the Chance of an Earthquake.” NATO Science Series IV: Earth and Environmental Sciences 32: 201–13.\n\n\nGoodman, N. 1965. “The New Riddle of Induction.”\n\n\nHajek, Alan. 2011. “Interpretations of Probability.” Stanford Encyclopedia of Philosophy, 1–47.\n\n\nHájek, Alan. 2009. “Fifteen Arguments Against Hypothetical Frequentism.” Erkenntnis 70 (2): 211–35.\n\n\nHall, Ned. 2020. “Is Chance Ontologically Fundamental? Chance and the Great Divide.” In Current Controversies in Philosophy of Science, 123–42. Routledge.\n\n\nHenderson, L. 2024. “The Problem of Induction.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta and Uri Nodelman, Winter 2024. https://plato.stanford.edu/archives/win2024/entries/induction-problem/; Metaphysics Research Lab, Stanford University.\n\n\nHume, D. 2007. “An Enquiry Concerning Human Understanding.”\n\n\nLewis, David. 1994. “Humean Supervenience Debugged.” Mind 103 (412): 473–90.\n\n\nLoewer, Barry. 2004. “David Lewis’s Humean Theory of Objective Chance.” Philosophy of Science 71 (5): 1115–25.\n\n\nNeyman, J. 1957. “‘Inductive Behavior’ as a Basic Concept of Philosophy of Science.” Revue De L’Institut International De Statistique, 7–22.\n\n\nPopper, K. 1963. “Science as Falsification.” Conjectures and Refutations 1 (1963): 33–39.\n\n\nSteeger, Jer. 2024. “Hypothetical Frequencies as Approximations.” Erkenntnis 89 (4): 1295–325.\n\n\nVon Mises, Richard. 1941. “On the Foundations of Probability and Statistics.” The Annals of Mathematical Statistics 12 (2): 191–205.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "reading_list.html",
+    "href": "reading_list.html",
+    "title": "Reading list and schedule",
+    "section": "",
+    "text": "Schedule and readings\n\nWeek one (logistics)\n\nPlease discuss and complete this form, ideally with at least one other group memeber, even more ideally with group members from different departments.\n\n\n\n\nFuture weeks\nThe following schedule is subject to change.",
+    "crumbs": [
+      "Schedule and readings"
+    ]
   },
   {
     "objectID": "guidelines.html",
@@ -67,51 +108,10 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Statistics 298: Statistical Foundations Reading Group",
-    "section": "",
-    "text": "EdStem Discussion Board\n\n  PollEV Link (Attendance)\n\n  Reading List\n\n\nNo matching items\n\n\nThis is the webpage for the Fall 2025 Statistical Foundations Reading Group.\nReadings to date:\n\nInterpretation of probability\n\nWeek 1: Subjective interpretation of probability\n\nMain readings:\n\nHajek (2011) (Chapters 1, 2 and 3.3)\nFreedman and Stark (2003) (Chapters 2.3 and 4)\nDe Finetti (1937) (Chapters 1 and 2)\n\n\nWeek 2: Frequentist interpretation of probability\n\nMain readings:\n\nFreedman (1995)\nHájek (2009) Optional:\n\nOptional readings\n\nVon Mises (1941)\nSteeger (2024)\n\n\nWeek 3: Best systems interpretation of probability\n\nMain reading:\n\nLoewer (2004)\n\nOptional readings:\n\nLewis (1994)\nHall (2020)\n\n\n\n\n\nThe problem of induction\nTBD!\n\n\nBayesian versus frequentist statistics\nTBD!\n\n\nThe replication crisis\nTBD!\n\n\n\n\n\n\n\n\n\nBibliography\n\nDe Finetti, Bruno. 1937. “Foresight: Its Logical Laws, Its Subjective Sources.” In Breakthroughs in Statistics: Foundations and Basic Theory, 134–74. Springer.\n\n\nFreedman, David. 1995. “Some Issues in the Foundation of Statistics.” Foundations of Science 1 (1): 19–39.\n\n\nFreedman, David, and Philip Stark. 2003. “What Is the Chance of an Earthquake.” NATO Science Series IV: Earth and Environmental Sciences 32: 201–13.\n\n\nHajek, Alan. 2011. “Interpretations of Probability.” Stanford Encyclopedia of Philosophy, 1–47.\n\n\nHájek, Alan. 2009. “Fifteen Arguments Against Hypothetical Frequentism.” Erkenntnis 70 (2): 211–35.\n\n\nHall, Ned. 2020. “Is Chance Ontologically Fundamental? Chance and the Great Divide.” In Current Controversies in Philosophy of Science, 123–42. Routledge.\n\n\nLewis, David. 1994. “Humean Supervenience Debugged.” Mind 103 (412): 473–90.\n\n\nLoewer, Barry. 2004. “David Lewis’s Humean Theory of Objective Chance.” Philosophy of Science 71 (5): 1115–25.\n\n\nSteeger, Jer. 2024. “Hypothetical Frequencies as Approximations.” Erkenntnis 89 (4): 1295–325.\n\n\nVon Mises, Richard. 1941. “On the Foundations of Probability and Statistics.” The Annals of Mathematical Statistics 12 (2): 191–205.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
     "objectID": "staff.html",
     "href": "staff.html",
     "title": "Staff",
     "section": "",
     "text": "[UNDER CONSTRUCTION]\nOffice hours are subject to change.\n\n\n\nInstructor: Person X x@berkeley.edu Office hours:  - Thursday 3pm-5pm, Evans 309  - Friday 2:00pm-4:30pm, Evans 309\n\n\nGSI: Person Y y@berkeley.edu Office hours: - Monday 11am-12pm, Evans 432 - Tuesday 4pm-5pm, Evans 432 - Wednesday 2pm-3pm, Evans 432 - Friday 12pm-1pm, Evans 432\n\n\nTutor: Person Z z@berkeley.edu Office hours:  - Wednesday 2:30pm - 4:30pm, Evans 434 - Sunday 2pm - 6pm, Zoom\n\n\nTutor: Person W w@berkeley.edu Office hours:  - Wednesday 10am-2pm, Evans 432 - Thursday 3-5pm, Evans 434"
-  },
-  {
-    "objectID": "calendar.html",
-    "href": "calendar.html",
-    "title": "Calendar",
-    "section": "",
-    "text": "This is an example of embedding a widget with multiple calendars. This might be useful if you want to have different calendars for assignments, exams, instructor office hours, GSI office hours, etc."
-  },
-  {
-    "objectID": "calendar.html#course-calendar",
-    "href": "calendar.html#course-calendar",
-    "title": "Calendar",
-    "section": "",
-    "text": "This is an example of embedding a widget with multiple calendars. This might be useful if you want to have different calendars for assignments, exams, instructor office hours, GSI office hours, etc."
-  },
-  {
-    "objectID": "calendar.html#instructions",
-    "href": "calendar.html#instructions",
-    "title": "Calendar",
-    "section": "Instructions",
-    "text": "Instructions\nWe suggest that you delete these instructions before publishing your website.\n\nCreate the Calendars:\n\nGo to Google Calendar.\nOn the left sidebar, click the + sign next to “Other calendars” and select “Create new calendar”.\nCreate your calendars and name them appropriately.\n\nObtain the Embed Code for Each Calendar:\n\nFor each calendar, go to its settings by clicking on the three dots next to the calendar name and selecting “Settings and sharing”.\nIn the calendar settings, scroll down to “Integrate calendar” and copy the embed code provided under “Embed code”.\n\nCombine the Embed Codes:\n\nInstead of copying the entire embed code, you need the calendar’s ID, which is part of the embed URL. It will look something like calendarID@group.calendar.google.com.\nFor example, in the embed URL https://calendar.google.com/calendar/embed?src=calendarID@group.calendar.google.com, calendarID@group.calendar.google.com is the part you need.\n\nCreate a Single Embed Link:\n\nUse the base URL for embedding multiple calendars: https://calendar.google.com/calendar/embed?\nAppend each calendar ID to the base URL using the format &src=calendarID@group.calendar.google.com for each calendar you want to include.\nOptionally, you can customize the appearance by adding parameters (e.g., &color=%23F6BF26 for the color, &ctz=America%2FLos_Angeles for the time zone).\n\nFor example, if you have two calendars with IDs calendar1ID@group.calendar.google.com and calendar2ID@group.calendar.google.com, your combined embed link would look like this:\n\nhttps://calendar.google.com/calendar/embed?src=calendar1ID@group.calendar.google.com&src=calendar2ID@group.calendar.google.com\n\nSubstitute this URL into the src attribute of the calendar’s iframe at the top of this page."
-  },
-  {
-    "objectID": "reading_list.html",
-    "href": "reading_list.html",
-    "title": "Reading list and schedule",
-    "section": "",
-    "text": "Schedule and readings\n\nWeek one (logistics)\n\nPlease discuss and complete this form, ideally with at least one other group memeber, even more ideally with group members from different departments.\n\n\n\n\nFuture weeks\nThe following schedule is subject to change.",
-    "crumbs": [
-      "Schedule and readings"
-    ]
   }
 ]
